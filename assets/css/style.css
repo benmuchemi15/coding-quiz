@@ -1,0 +1,18 @@
+body {
+    background-color: burlywood;
+}
+h1 {
+    color: blueviolet;
+    text-align: center;
+    margin-top: 250px;
+}
+p {
+    color: blueviolet;
+    text-align: center;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
